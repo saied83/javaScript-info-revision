@@ -16,8 +16,8 @@ This repo follows the structure of the [JavaScript.info](https://javascript.info
 
 | #   | Topic                      | Folder                   | Status         |
 | --- | -------------------------- | ------------------------ | -------------- |
-| 1   | JavaScript Fundamentals    | `01-fundamentals/`       | 🚧 In Progress |
-| 2   | Code Quality               | `02-code-quality/`       | ⏳ Planned     |
+| 1   | JavaScript Fundamentals    | `01-fundamentals/`       | ✅ Done        |
+| 2   | Code Quality               | `02-code-quality/`       | 🚧 In Progress |
 | 3   | Objects & Data Types       | `03-objects-types/`      | ⏳ Planned     |
 | 4   | Advanced Functions         | `04-advanced-functions/` | ⏳ Planned     |
 | 5   | Asynchronous Programming   | `05-async-programming/`  | ⏳ Planned     |
